@@ -145,8 +145,8 @@ This function can tombstone an ADIDNS node.
 
 ##### Example:
 
-*Tombstone a wildcard record.  
-`Disable-ADIDNSNode -Node *  
+* Tombstone a wildcard record.  
+`Disable-ADIDNSNode -Node *  `
 
 ### Enable-ADIDNSNode  
 
